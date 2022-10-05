@@ -1,0 +1,129 @@
+{
+  "continue": {
+    "rvcontinue": "20220711092217|1097539926",
+    "continue": "||"
+  },
+  "requestid": "",
+  "query": {
+    "pages": {
+      "5323": {
+        "pageid": 5323,
+        "ns": 0,
+        "title": "Computer science",
+        "revisions": [
+          {
+            "user": "InternetArchiveBot",
+            "timestamp": "2022-10-03T20:44:34Z"
+          },
+          {
+            "user": "Surachit",
+            "timestamp": "2022-09-18T03:56:57Z"
+          },
+          {
+            "user": "Elizardeth12",
+            "timestamp": "2022-08-12T17:15:47Z"
+          },
+          {
+            "user": "Fgnievinski",
+            "timestamp": "2022-08-12T02:36:29Z"
+          },
+          {
+            "user": "WikiCleanerBot",
+            "timestamp": "2022-08-05T07:37:12Z"
+          },
+          {
+            "user": "Sirtinia",
+            "timestamp": "2022-08-02T21:46:06Z"
+          },
+          {
+            "user": "Migfab008",
+            "timestamp": "2022-08-01T03:16:35Z"
+          },
+          {
+            "user": "Amakuha",
+            "timestamp": "2022-07-24T02:54:55Z"
+          },
+          {
+            "user": "Caleb Stanford",
+            "timestamp": "2022-07-15T19:20:37Z"
+          },
+          {
+            "user": "Caleb Stanford",
+            "timestamp": "2022-07-15T19:18:38Z"
+          },
+          {
+            "user": "Ajani6101",
+            "timestamp": "2022-07-15T05:20:55Z"
+          },
+          {
+            "user": "Ajani6101",
+            "timestamp": "2022-07-15T05:17:24Z"
+          },
+          {
+            "user": "Yfchen123",
+            "timestamp": "2022-07-14T03:46:44Z"
+          },
+          {
+            "user": "Yfchen123",
+            "timestamp": "2022-07-14T03:38:48Z"
+          },
+          {
+            "user": "Yfchen123",
+            "timestamp": "2022-07-14T03:31:59Z"
+          },
+          {
+            "user": "Yfchen123",
+            "timestamp": "2022-07-14T03:24:38Z"
+          },
+          {
+            "user": "Yfchen123",
+            "timestamp": "2022-07-14T03:21:43Z"
+          },
+          {
+            "user": "Yfchen123",
+            "timestamp": "2022-07-14T03:15:17Z"
+          },
+          {
+            "user": "Ged UK",
+            "timestamp": "2022-07-12T09:02:02Z"
+          },
+          {
+            "user": "Ged UK",
+            "timestamp": "2022-07-12T09:01:24Z"
+          },
+          {
+            "user": "Ged UK",
+            "timestamp": "2022-07-12T09:01:19Z"
+          },
+          {
+            "user": "Hey man im josh",
+            "timestamp": "2022-07-11T18:33:43Z"
+          },
+          {
+            "user": "92.23.221.221",
+            "anon": "",
+            "timestamp": "2022-07-11T18:33:20Z"
+          },
+          {
+            "user": "SunilNevlaFan",
+            "timestamp": "2022-07-11T18:33:09Z"
+          },
+          {
+            "user": "92.23.221.221",
+            "anon": "",
+            "timestamp": "2022-07-11T18:32:55Z"
+          },
+          {
+            "user": "92.23.221.221",
+            "anon": "",
+            "timestamp": "2022-07-11T18:32:07Z"
+          },
+          {
+            "user": "Tristario",
+            "timestamp": "2022-07-11T09:22:47Z"
+          }
+        ]
+      }
+    }
+  }
+}
